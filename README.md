@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Welcome to Analyst FP&A GitHub Profile  
 
-<!--
-**Analyst-FPnA/Analyst-FPnA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 About Us  
+This is the official GitHub account for **Analyst FP&A Division**. We focus on **Automation**, **Dashboard Development**, and **Data Analysis** to support better decision-making in management.  
 
-Here are some ideas to get you started:
+🚀 **Our Key Focus Areas:**  
+- Automating financial and operational processes  
+- Developing dashboards for management reporting  
+- Collaborating with open-source tools such as **Streamlit**  
+- Data analysis for business intelligence  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies We Use  
+🔹 **Python** - For data analysis & automation  
+🔹 **Streamlit** - Interactive web applications  
+🔹 **Looker Studio** - Business intelligence dashboards  
+🔹 **Excel and VBA** - Data processing and modeling  
+
+## 🤝 Collaboration  
+We believe in open-source collaboration and welcome contributions to our projects. If you're interested in working with us, feel free to reach out!  
+
+📫 **Contact Us:**  
+📧 Email: analyst.fpna@gmail.com
